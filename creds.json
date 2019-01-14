@@ -1,0 +1,16 @@
+{"creds": {
+    "user": {
+        "username": "USERNAME",
+        "password": "PASSWORD"
+    },
+    "racinfo": {
+        "racuser": "USERNAME",
+        "racpass": "PASSWORD"
+    },
+    "racktables": {
+        "server": "racktables.dev.tsi.lan",
+        "db_user": "guest",
+        "db_pass": "guest",
+        "db": "racktables_db"
+    }
+}}
